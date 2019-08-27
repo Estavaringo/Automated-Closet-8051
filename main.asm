@@ -1,5 +1,5 @@
 ;Esse programa mostra uma mensagem no LCD para você escolher um compartimento (1 a 6) do CLOSET Automatizado, após isso, 
-liga um motor DC que é desativado ao ativar uma sequência certa de sensores;
+;liga um motor DC que é desativado ao ativar uma sequência certa de sensores;
 ;Versão 1.0;
 
 
