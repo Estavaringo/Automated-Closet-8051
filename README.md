@@ -5,4 +5,5 @@ Built as the final project of the electronics course at SENAI.
 
 
 ## Demo
-https://youtu.be/8O7oq0qU9FI
+
+[![Watch the video](https://img.youtube.com/vi/8O7oq0qU9FI/maxresdefault.jpg)](https://youtu.be/8O7oq0qU9FI)
